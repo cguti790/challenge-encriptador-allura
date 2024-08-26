@@ -35,6 +35,7 @@ main{
     color:#0A3871;
     margin-top: 90px;
     text-transform: lowercase;
+    
 }
 
 
@@ -46,7 +47,7 @@ main{
 
 .mensaje{
     background: white;
-    background-position: center;
+    background-position:fixed;
     background-image: url(/Imagenes\ Copy/muñeco.png);
     background-repeat: no-repeat;
     border: none;
