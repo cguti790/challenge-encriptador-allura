@@ -48,7 +48,7 @@ main{
 .mensaje{
     background: white;
     background-position:center;
-    background-image: url(../Imagenes%20Copy/muñeco.png);
+    background-image: url(./Imagenes%20Copy/muñeco.png);
     background-repeat: no-repeat;
     border: none;
     border-radius: 24px;
